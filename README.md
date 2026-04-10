@@ -5,7 +5,7 @@ The Employee Attendance System is a comprehensive web-based application designed
 **Key Features**
 **1. Real-Time Dashboard**
 
-**Live Statistics Display:**Shows total employees, today's attendance count, and total attendance records
+**Live Statistics Display:** Shows total employees, today's attendance count, and total attendance records
 **Dynamic Updates:** All statistics update automatically when attendance is marked or employees are added
 **Visual Indicators:** Color-coded stat cards with gradient backgrounds for quick data visualization
 
