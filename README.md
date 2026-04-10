@@ -104,16 +104,6 @@ Results filter in real-time
 Matching employees display immediately
 Clear search to show all employees
 
-
-Design Highlights
-Color Scheme
-
-Primary Gradient: Purple-blue gradient (#667eea to #764ba2)
-Success States: Green (#d4edda, #155724)
-Error States: Red (#f8d7da, #721c24)
-Info States: Blue (#d1ecf1, #0c5460)
-Neutral Backgrounds: Light grays for cards and items
-
 Responsive Design
 
 Desktop: Two-column grid layout for optimal screen usage
