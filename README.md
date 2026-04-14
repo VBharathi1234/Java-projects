@@ -39,7 +39,7 @@ Detailed Timestamps: Full date and time for each check-in
 Record Numbering: Sequential numbering for easy tracking
 Employee Selection: Dropdown menu for quick employee selection
 
-6. Personal Dashboard (Logged-in View)
+**6. Personal Dashboard (Logged-in View)**
 
 Personalized Greeting: Welcome message with employee name
 Quick Stats: Displays personal ID, name, last check-in, and total records
@@ -72,9 +72,8 @@ Employee Directory Card: Searchable list with real-time filtering
 Attendance Records Card: Full-width detailed record viewer
 Alert System: Color-coded success/error notifications
 
-
-User Workflows
-New Employee Registration
+**User Workflows**
+**New Employee Registration**
 
 Click "Add Employee" tab
 Enter employee name
